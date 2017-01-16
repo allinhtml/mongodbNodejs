@@ -1,0 +1,14 @@
+{
+  "name": "mongodb_nodejs",
+  "version": "0.0.0",
+  "description": "npm introduction",
+  "main": "app.js",
+  "dependencies": {
+        "consolidate": "~0.13.1",
+        "express": "~4.13.3",
+        "mongodb": "~2.1.3"
+  },
+  "author": "Parth Vikani",
+  "license": "BSD"
+}
+ 
